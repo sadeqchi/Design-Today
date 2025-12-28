@@ -8,5 +8,6 @@ https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascri
 https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
 
 </div>
-📋 Project Overview
+<br>
+<h1>📋 Project Overview</h1>
 Design Today is a modern, responsive website built from a Figma design mockup. This project demonstrates my ability to accurately translate design specifications into clean, maintainable, and production-ready code.
