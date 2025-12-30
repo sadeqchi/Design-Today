@@ -6,3 +6,6 @@
 * {
   font-family: "font";
 }
+@theme default{
+  --color-orange:#FF5722
+}
